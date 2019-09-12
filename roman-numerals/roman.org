@@ -1,0 +1,4 @@
+0. Contar la cantidad de caracteres en un numero.
+1. Tomar el siguiente caracter disponible y concatenarle 0s de la cantidad de caracteres -1
+2. buscar el numero romano en un array
+3. regresar al paso 1 
